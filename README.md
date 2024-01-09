@@ -26,15 +26,12 @@ This project focuses on Extracting, Transforming, and Loading (ETL) Gross Domest
    ```bash
    git clone https://github.com/pawan706b/etl-project-GDP-web-scrapping.git
    cd etl-project-GDP-web-scrapping
-
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
-
 3. Execute the ETL process:
     ```bash
     python main.py
-
 Configuration
 Modify the configuration parameters in **config.py** to customize the behavior of the ETL process.
 
