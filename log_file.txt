@@ -1,0 +1,36 @@
+2024-Jan-11-16:23:22 : Preliminaries complete. Initiating ETL process.
+2024-Jan-11-16:23:22 : ETL Job Started
+2024-Jan-11-16:23:22 : Extract phase Started
+2024-Jan-11-16:23:24 : Extract phase Ended
+2024-Jan-11-16:23:24 : Transform phase Started
+2024-Jan-11-16:23:24 : Transform phase Ended
+2024-Jan-11-16:23:24 : Load to csv phase Started
+2024-Jan-11-16:23:24 : Load to csv phase Ended
+2024-Jan-11-16:23:24 : Load to db phase Started
+2024-Jan-11-16:23:24 : Load to db phase Ended
+2024-Jan-11-16:23:24 : ETL Job Ended
+2024-Jan-11-16:23:24 : Querying phase Started
+2024-Jan-11-16:25:20 : Preliminaries complete. Initiating ETL process.
+2024-Jan-11-16:25:20 : ETL Job Started
+2024-Jan-11-16:25:20 : Extract phase Started
+2024-Jan-11-16:25:22 : Extract phase Ended
+2024-Jan-11-16:25:22 : Transform phase Started
+2024-Jan-11-16:25:22 : Transform phase Ended
+2024-Jan-11-16:25:22 : Load to csv phase Started
+2024-Jan-11-16:25:22 : Load to csv phase Ended
+2024-Jan-11-16:25:22 : Load to db phase Started
+2024-Jan-11-16:25:22 : Load to db phase Ended
+2024-Jan-11-16:25:22 : ETL Job Ended
+2024-Jan-11-16:25:22 : Querying phase Started
+2024-Jan-11-16:25:46 : Preliminaries complete. Initiating ETL process.
+2024-Jan-11-16:25:46 : ETL Job Started
+2024-Jan-11-16:25:46 : Extract phase Started
+2024-Jan-11-16:25:47 : Extract phase Ended
+2024-Jan-11-16:25:47 : Transform phase Started
+2024-Jan-11-16:25:47 : Transform phase Ended
+2024-Jan-11-16:25:47 : Load to csv phase Started
+2024-Jan-11-16:25:47 : Load to csv phase Ended
+2024-Jan-11-16:25:47 : Load to db phase Started
+2024-Jan-11-16:25:47 : Load to db phase Ended
+2024-Jan-11-16:25:47 : ETL Job Ended
+2024-Jan-11-16:25:47 : Querying phase Started
