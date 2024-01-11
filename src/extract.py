@@ -1,11 +1,8 @@
 # src/extract.py
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-from transform import transform
+from bs4 import BeautifulSoup
 
-url = 'https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
-table_attributes = ["Country", "GDP_USD_millions"]
 def extract(url, table_attribs):
     ''' This function extracts the required
     information from the website and saves it to a dataframe. The
@@ -29,4 +26,4 @@ def extract(url, table_attribs):
                 df1 = pd.DataFrame(data_dict, index=[0])
                 df = pd.concat([df, df1], ignore_index=True)
     return df
-print(extract(url, table_attributes))
+
